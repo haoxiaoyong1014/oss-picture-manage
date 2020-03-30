@@ -1,0 +1,16 @@
+oss:
+  config:
+    enable: true
+    endpoint: oss-cn-shanghai.aliyuncs.com
+    access-key-secret: 6tHFKAeijuOKpHJUcLwpbJ0Ou84N06
+    bucket-name: cg-mall
+    access-key-id: LTAI4FnAwtwBrtf1zEAEf8Ew
+    dir: blog/
+server:
+  port: 8876
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 20MB
