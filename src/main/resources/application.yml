@@ -1,10 +1,10 @@
 oss:
   config:
     enable: true
-    endpoint: oss-cn-shanghai.aliyuncs.com
-    access-key-secret: 6tHFKAeijuOKpHJUcLwpbJ0Ou84N06
-    bucket-name: cg-mall
-    access-key-id: LTAI4FnAwtwBrtf1zEAEf8Ew
+    endpoint:
+    access-key-secret:
+    bucket-name:
+    access-key-id:
     dir: blog/
 server:
   port: 8876

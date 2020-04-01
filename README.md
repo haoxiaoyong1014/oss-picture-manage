@@ -2,6 +2,10 @@
 
 #### 基于 aliyun oss制作博客图床
 
+效果：
+
+![](http://cg-mall.oss-cn-shanghai.aliyuncs.com/blog/bllcd-4ymea.gif)
+
 依赖于[oss-spring-boot-project](https://github.com/haoxiaoyong1014/oss-spring-boot-project)项目
 
 引入:
