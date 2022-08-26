@@ -5,6 +5,7 @@ import cn.haoxiaoyong.oss.starter.service.OssService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.util.StringUtils;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -20,6 +21,7 @@ import java.io.IOException;
  * Blog: www.haoxiaoyong.cn
  */
 @RestController
+@CrossOrigin
 public class UploadController {
 
 
